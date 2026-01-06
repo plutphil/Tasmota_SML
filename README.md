@@ -4,7 +4,7 @@ Download firmware.bin
 
 Flash with ESPHomeFlasher or [ESPHomeWeb](https://web.esphome.io/)
 
-[Download Firmware](/firmware.bin)
+[Download Firmware](https://github.com/plutphil/Tasmota_SML/raw/refs/heads/main/firmware.bin)
 
 Example Script for my Meter:
 ```
